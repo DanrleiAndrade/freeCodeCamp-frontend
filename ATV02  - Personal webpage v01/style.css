@@ -1,0 +1,77 @@
+body {
+    background-image: url(https://cdn.dribbble.com/users/1482796/screenshots/14491789/media/ba2b39a1144feba6d4bf6647debb9871.gif);
+    font-family: 'Segoe UI';
+    padding: 60px;
+    
+}
+
+.boasvindas {
+    width: 65%;
+    background-color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 50px;
+    padding: 20px;
+    max-width: 350px;
+}
+
+.perfil {
+    max-width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50px;
+}
+
+hr {
+    height: 1px;
+    width: 15px;
+    border-radius: 5px;
+    background-color: gray;
+    border-color: gray;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    color: darkslategray;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.botoes {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    justify-content: center;
+}
+
+button {
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    border-color: rgba(169, 169, 169, 0);
+    color: darkslategray;
+    background-color: navajowhite;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*FOOTER*/
+
+.rodape {
+    text-align: center;
+    font-size: 9px;
+    color: darkgrey;
+}

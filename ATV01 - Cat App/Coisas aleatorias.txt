@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <title>Coisas aleatórias</title>
+    </head>
+
+    <body>
+        <main>
+            <h1>Coisas aleatórias</h1>
+            <section>
+                <h2>Coisinhas muito aleatórias</h2>
+                <!-- TODO: Add link to coisas aleatórias-->
+                <p>Veja mais coisas aleatórias <a target="_blank" href="https://br.pinterest.com/lilianlilokaborbasoares/coisas-aleat%C3%B3rias/">clicando aqui</a> , nesse link para o Pinterest.</p>
+                <a href="https://br.pinterest.com/lilianlilokaborbasoares/coisas-aleat%C3%B3rias/"><img src="https://gartic.com.br/imgs/mural/fa/fakku_/coisas-aleatorias.png" alt="Coisas aleatórias"></a>
+            </section>
+
+            <section>
+                <h2>Coisas mais aleocrazies</h2>
+                    <h3>Lista de coisas mais aleocrazies:</h3>
+                    <ul>
+                        <li>Beber Coca-Cola misturada com Pepsi (lol)</li>
+                        <li>Dormir durante o dia, com os olhos abertos (whaaaat??)</li>
+                        <li>Pegar um ônibus para ir a lugar nenhum e descobrir que lá também é um lugar (kakakaka)</li>
+                    </ul>
+                    <figure>
+                        <img src="https://www.meme-arsenal.com/memes/1ece40d906ddb39f4ad16c49ecbcc1b0.jpg" alt="Whaaaat meme">
+                        <figcaption>Meme <em>whaaaaaat?</em> , dos Estados Unidos.</figcaption>
+                    </figure>
+                    <h3>Top 3 coisas aleatórias tops:</h3>
+                    <ol>
+                        <li>O céu ser azul (imagina se ele fosse vermelho sangue...)</li>
+                        <li>O cocô ser feio (se fosse bonito, as pessoas iriam querer guardá-lo?)</li>
+                        <li>Essa página (quem gostou, bate palmas. quem não gostou, não me importo kakaka)</li>
+                    </ol>
+                    <figure>
+                        <img src="https://pbs.twimg.com/media/DoEJgsAXcAUyfid.jpg" alt="meme quem gostou bate palma">
+                        <figcaption>É isso aí. E digo mais: <strong>Paz no mundo.</strong></figcaption>
+                    </figure>
+            </section>
+
+            <section>
+                <h2>Aleoquiz</h2>
+                <form action="https://freecatphotoapp.com/submit-cat-photo">
+                    <fieldset>
+                        <legend>O que é mais legal?</legend>
+                        <label><input id="praia" type="radio" name="praia-neve" value="praia" checked>Praia</label>
+                        <label><input id="neve" type="radio" name="praia-neve" value="neve">Neve</label>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Qual a sua casa de Hogwarts?</legend>
+                        <input id="sonserina" type="checkbox" name="casa" value="sonserina" checked> <label for="lazy">Lazy</label>
+                        <input id="corvinal" type="checkbox" name="casa" value="corvinal"> <label for="lazy">Corvinal</label>
+                        <input id="grifinoria" type="checkbox" name="casa" value="grifinoria"> <label for="lazy">Grifinória</label>
+                        <input id="lufa-lufa" type="checkbox" name="casa" value="lufa-lufa"> <label for="lazy">Lufa-Lufa</label>
+                    </fieldset>
+                    <input type="text" name="URLalgoaleatório" placeholder="URL de algo aleatório" required>
+                    <button type="submit">Enviar</button>
+                </form>
+            </section>
+
+        </main>
+        <footer>
+            <p>Sem direitos autorais, mas feito por <a href="https://www.instagram.com/arquitetodanrlei/">Danrlei</a> Coding Corporation</p>
+        </footer>
+    </body>
+</html>
